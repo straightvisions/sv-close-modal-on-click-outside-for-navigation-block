@@ -1,6 +1,6 @@
 <?php
 /*
-Version: 1.0.00
+Version: 1.0.01
 Plugin Name: SV Close Modal on Click Outside for Navigation Block
 Text Domain: sv_close_modal_on_click_outside_for_navigation_block
 Description: The modal for the mobile menu of the navigation block is closed by default only when the burger icon is clicked. This single-purpose-plugin adds a small Javascript snippet to the functionality so that the modal also closes when an area outside the menu is clicked.

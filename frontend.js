@@ -13,6 +13,7 @@ window.addEventListener('load', function() {
 			if (!menuContainer.contains(e.target)) {
 				document.querySelector('html').classList.remove('has-modal-open')
 				menuContainer.classList.remove('is-menu-open', 'has-modal-open')
+				menuContainer.setAttribute('aria-hidden', 'true');
 			}
 		})
 	})
