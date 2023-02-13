@@ -13,5 +13,5 @@ License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 */
 
 add_action( 'wp_enqueue_scripts', function() {
-	wp_enqueue_script('sv_close_modal_on_click_outside_for_navigation_block', plugin_dir_url( __FILE__ ).'/frontend.min.js', array('wp-block-navigation-view-2'), filemtime(plugin_dir_path( __FILE__ ).'/frontend.js'), true);
+	wp_enqueue_script('sv_close_modal_on_click_outside_for_navigation_block', plugin_dir_url( __FILE__ ).'/frontend.min.js', array('wp-block-navigation-view-2'), filemtime(plugin_dir_path( __FILE__ ).'/frontend.min.js'), true);
 } );

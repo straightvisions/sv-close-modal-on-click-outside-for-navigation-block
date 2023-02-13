@@ -16,7 +16,7 @@ We are a WordPress agency specialized to PageSpeed 100, so this plugin provides:
 
 * no bloat: single purpose plugin just doing it's job
 * no bloat: loads frontend script only, when navigation block is in use on a page
-* no bloat: <500 Bytes Minified Vanilla JS (no jQuery!)
+* no bloat: ~500 Bytes Minified Vanilla JS (no jQuery!)
 
 == Team ==
 
