@@ -4,7 +4,7 @@ Donate link: https://straightvisions.com
 Tags: gutenberg, navigation, modal
 Requires PHP: 7.3
 Requires at least: 6.1.1
-Tested up to: 6.1.1
+Tested up to: 6.2.2
 Stable tag: 1.0.01
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
